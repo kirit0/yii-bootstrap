@@ -97,6 +97,7 @@
 	    <!-- Placed at the end of the document so the pages load faster -->
 	    <script src="<?php echo Yii::app()->request->baseUrl; ?>/assets/js/jquery-1.7.2.min.js"></script>
 	    <script src="<?php echo Yii::app()->request->baseUrl; ?>/assets/js/bootstrap/bootstrap-transition.js"></script>
+	    <!--  
 	    <script src="<?php echo Yii::app()->request->baseUrl; ?>/assets/js/bootstrap/bootstrap-alert.js"></script>
 	    <script src="<?php echo Yii::app()->request->baseUrl; ?>/assets/js/bootstrap/bootstrap-modal.js"></script>
 	    <script src="<?php echo Yii::app()->request->baseUrl; ?>/assets/js/bootstrap/bootstrap-dropdown.js"></script>
@@ -108,6 +109,6 @@
 	    <script src="<?php echo Yii::app()->request->baseUrl; ?>/assets/js/bootstrap/bootstrap-collapse.js"></script>
 	    <script src="<?php echo Yii::app()->request->baseUrl; ?>/assets/js/bootstrap/bootstrap-carousel.js"></script>
 	    <script src="<?php echo Yii::app()->request->baseUrl; ?>/assets/js/bootstrap/bootstrap-typeahead.js"></script>
-	
+		-->
 	</body>
 </html>
